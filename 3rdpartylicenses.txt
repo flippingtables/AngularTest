@@ -126,6 +126,10 @@ THE SOFTWARE.
 
 @angular/material/form-field
 
+@angular/material/paginator
+
+@angular/material/select
+
 @angular/material/snack-bar
 
 @angular/material/sort
